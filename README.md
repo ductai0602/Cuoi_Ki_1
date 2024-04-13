@@ -11,4 +11,4 @@ Trong bước 3 ta cụ thể như sau:
   - Nháy chuột phải vào 1 project ta muốn làm.
   - Sau đó chọn Build Path -> Configure
   - Vào trang mục Java Build Path, chọn Libraries
-  - Nhấp vào Classpath -> Add external JARs.. -> chọn file mysql-connector-java-x.y.zz-bin.jar mới tải về.
+  - Nhấp vào Classpath -> Add external JARs.. -> chọn file mysql-connector-java-x.y.zz-bin.jar mới tải về. 

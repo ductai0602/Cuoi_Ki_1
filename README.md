@@ -7,7 +7,7 @@ Bài được kết nối với mySQL để lưu thông tin học sinh cũng nh�
  - Add thư viện JDBC Driver mysql-connector-java-x.y.zz-bin.jar vào project.
  - Gọi phương thức Class.forName("com.mysql.jdbc.Driver").
  - Gọi phương thức DriverManager.getConnection() để kết nối đến cơ sở dữ liệu MySQL
-Trong bước 3 ta cụ thể như sau:
+Trong bước 3 ta cụ thể như sau: 
   - Nháy chuột phải vào 1 project ta muốn làm.
   - Sau đó chọn Build Path -> Configure
   - Vào trang mục Java Build Path, chọn Libraries
